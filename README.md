@@ -1,2 +1,3 @@
 # SelfStudy
-This is a repository for my self study purpose
+This is a repository for my self study purpose.
+Author - Akshuni Raghuwanshi
